@@ -9,7 +9,7 @@ function App() {
     <div className="app-container">
       <Rocket size={64} className="hero-icon" />
       <h1>Deploy Faster.</h1>
-      <h2 style={{ color: 'var(--primary)', marginBottom: '1rem' }}>Welcome to the Live Demo!</h2>
+      <h2 style={{ color: 'var(--primary)', marginBottom: '1rem' }}>Welcome to the AI world!</h2>
       <p>
         Experience the power of automated CI/CD pipelines, seamless SonarQube integration, 
         and flawless deployment. Build with confidence.
